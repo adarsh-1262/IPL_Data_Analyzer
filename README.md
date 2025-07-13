@@ -3,7 +3,9 @@
 A terminal-based Python application to analyze IPL (Indian Premier League) data. This tool helps you explore batting performances and team stats through real-time data summaries and visual charts.
 
 ![Banner](https://img.shields.io/badge/Project-IPL%20Analyzer-blue?style=flat-square)
+
 ![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=flat-square) 
+
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
