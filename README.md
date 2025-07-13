@@ -130,6 +130,7 @@ Each option will:
 ## 🧑‍💻 Author
 
 **Adarsh Singh** – [LinkedIn](https://www.linkedin.com/in/adarsh-singgh/)
+
 Full Stack Engineer | Passionate about AI, Full Stack Development & Software Development
 
 ---
