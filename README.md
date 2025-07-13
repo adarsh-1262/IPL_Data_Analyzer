@@ -11,9 +11,13 @@ A terminal-based Python application to analyze IPL (Indian Premier League) data.
 ## 📌 Features
 
 ✨ Built using **Python, Pandas, Matplotlib**
+
 ✨ CLI-based menu with real-time stats
+
 ✨ Exports result to CSV
+
 ✨ Visualizes data using bar charts
+
 ✨ Clean and modular code structure
 
 
