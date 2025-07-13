@@ -15,6 +15,7 @@ A terminal-based Python application to analyze IPL (Indian Premier League) data.
 ✨ Visualizes data using bar charts
 ✨ Clean and modular code structure
 
+
 ---
 
 ## 📂 Folder Structure
@@ -64,19 +65,17 @@ Each option will:
 
 ## 📸 Sample Visuals
 
-> Add your screenshots below (replace these placeholder texts with your own screenshots)
-
 ### 🔝 Top 10 Run Scorers
 
-![Top Scorers Graph](screenshots/top_scorers.png)
+![Top Scorers Graph](screenshots/top_run_scorer.png)
 
 ### 💥 Most Sixes by Batsmen
 
-![Most Sixes Graph](screenshots/most_sixes.png)
+![Most Sixes Graph](screenshots/top_six_hitters.png)
 
 ### 🏆 Top Winning Teams
 
-![Top Teams Graph](screenshots/top_teams.png)
+![Top Teams Graph](screenshots/top_winning_teams.png)
 
 ---
 
@@ -127,19 +126,10 @@ Each option will:
 
 ---
 
-## 💡 Future Ideas
-
-* Add player vs player analysis
-* Build a Streamlit or Tkinter GUI version
-* Add a prediction model (coming next in Phase 2!)
-* Use Seaborn for advanced plots
-
----
-
 ## 🧑‍💻 Author
 
-**Adarsh Singh** – [LinkedIn](https://www.linkedin.com/in/adarsh-cse/)
-Full Stack Engineer | Passionate about AI, Data & Cricket 🏏
+**Adarsh Singh** – [LinkedIn](https://www.linkedin.com/in/adarsh-singgh/)
+Full Stack Engineer | Passionate about AI, Full Stack Development & Software Development
 
 ---
 
